@@ -23,7 +23,7 @@
 ### 10. Hazardous: Boolean feature that shows whether asteroid is harmful or not
 
 
-### For this classification problem we are create simple neural network 
+# For this classification problem we are create simple neural network 
 
 #### Accuracy of model:    88.22%
 #### Loss of Model    :    27.72%
